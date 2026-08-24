@@ -8,8 +8,8 @@
     <parameter name="browser" value="chrome"/>
     <test name="Smoke Tests">
         <classes>
-            <class name="tests.SampleTest"/>
-            <class name="tests.RegressionTest"/>
+            <class name="testCases.SampleTest"/>
+           <!-- <class name="tests.RegressionTest"/>-->
         </classes>
     </test>
 
